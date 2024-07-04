@@ -10,6 +10,12 @@ I'm a passionate full-stack web and mobile developer with expertise in a broad s
 
 ---
 
+## 🔥 Github Stats
+
+[![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masud-nt)](https://github.com/anuraghazra/github-readme-stats)
+
+--
+
 ## 🛠️ Technologies & Tools
 
 ### Front-End
